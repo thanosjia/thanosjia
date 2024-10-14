@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @thanosjia
-- 👀 I’m interested in software development in the following languages: Java, Javascript & HTML, Python, C/C++.
-- 🌱 I’m currently learning about computer networks, operating systems, relational databases, and software engineering.
+- 👋 Hi, I’m @thanosjia.
+- 👀 I’m interested in software development in the following languages: Python, C/C++, Java, JavaScript.
+- 🌱 I’m currently attending Carleton University for a Bachelor's Degree in Computer Science.
 
 <!---
 thanosjia/thanosjia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
